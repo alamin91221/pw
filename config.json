@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -80,7 +80,7 @@
         "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710421251_1795710421270.png",
         "packageName": "",
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdvideoplayer&hl=en",
-        "badge": "",
+        "badge": "HOT",
         "order": 3,
         "enabled": true
       },
