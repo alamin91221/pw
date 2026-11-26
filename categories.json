@@ -7,5 +7,14 @@
     "order": 1,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "princess02",
+    "name": "Princess02",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/categories/princess02.jpg",
+    "order": 2,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
