@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -21,7 +21,7 @@
       "enabled": true,
       "unitId": "ca-app-pub-3940256099942544/1033173712",
       "showEveryNActions": 3,
-      "minSecondsBetween": 60
+      "minSecondsBetween": 10
     },
     "rewarded": {
       "enabled": true,
