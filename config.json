@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -115,6 +115,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.app.japannilashawallpaperapp&hl=en",
         "badge": "",
         "order": 6,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710853379",
+        "name": "PicPrompt Hub: Image Prompts",
+        "description": "PicPrompt Hub: Image Prompts - Every Image Comes With Its Prompt",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710853379_1795710853402.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault&hl=en",
+        "badge": "",
+        "order": 7,
         "enabled": true
       }
     ]
