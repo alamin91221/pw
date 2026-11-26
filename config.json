@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -181,6 +181,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdmusicplayerpro&hl=en",
         "badge": "",
         "order": 12,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711092306",
+        "name": "VidReduce: Video Converter",
+        "description": "VidReduce – All-in-One Audio & Video Studio",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711092306_1795711092331.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mediaforge&hl=en",
+        "badge": "",
+        "order": 13,
         "enabled": true
       }
     ]
