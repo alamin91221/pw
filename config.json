@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -192,6 +192,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mediaforge&hl=en",
         "badge": "",
         "order": 13,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711136560",
+        "name": "BgCut AI: Erase BG & Upscale",
+        "description": "BgCut AI is an all-in-one AI photo editing utility designed to remove backgrounds",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711136560_1795711136581.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.bgcutai&hl=en",
+        "badge": "",
+        "order": 14,
         "enabled": true
       }
     ]
