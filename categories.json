@@ -16,5 +16,14 @@
     "order": 2,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "princess03",
+    "name": "Princess03",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/categories/princess03.jpg",
+    "order": 3,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
