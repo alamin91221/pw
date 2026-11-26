@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -203,6 +203,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.bgcutai&hl=en",
         "badge": "",
         "order": 14,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711183214",
+        "name": "Tonevia: Video Color Grading",
+        "description": "Give your videos a cinematic look with Tonevia: Video Color Grading",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711183214_1795711183229.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.videocolorgrading&hl=en",
+        "badge": "",
+        "order": 15,
         "enabled": true
       }
     ]
