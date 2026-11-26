@@ -43,14 +43,5 @@
     "order": 5,
     "visible": true,
     "wallpapersCount": 120
-  },
-  {
-    "id": "pink",
-    "name": "Pink",
-    "icon": "💖",
-    "imageUrl": "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?w=800&auto=format&fit=crop&q=80",
-    "order": 6,
-    "visible": true,
-    "wallpapersCount": 96
   }
 ]
