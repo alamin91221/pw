@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -170,6 +170,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe&hl=en",
         "badge": "",
         "order": 11,
+        "enabled": true
+      },
+      {
+        "id": "app_1795711055037",
+        "name": "8D Music Player Pro",
+        "description": "8D Music Player Pro – Music with Immersive Audio Effects",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795711055037_1795711055058.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdmusicplayerpro&hl=en",
+        "badge": "",
+        "order": 12,
         "enabled": true
       }
     ]
