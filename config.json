@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "app": {
-    "appName": "Girly Wallpaper",
+    "appName": "Princess Wallpaper",
     "maintenance": false,
     "forceUpdate": false,
     "minVersionCode": 1,
