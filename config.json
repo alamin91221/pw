@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -137,6 +137,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp&hl=en",
         "badge": "NEW",
         "order": 8,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710942855",
+        "name": "Anime Couple Wallpaper HD",
+        "description": "Bring beautiful anime romance to your phone with Anime Couple Wallpaper!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710942855_1795710942884.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashaanimecouple&hl=en",
+        "badge": "",
+        "order": 9,
         "enabled": true
       }
     ]
