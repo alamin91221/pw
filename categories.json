@@ -25,14 +25,5 @@
     "order": 3,
     "visible": true,
     "wallpapersCount": 86
-  },
-  {
-    "id": "autumn",
-    "name": "Autumn",
-    "icon": "🍁",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
-    "order": 4,
-    "visible": true,
-    "wallpapersCount": 72
   }
 ]
