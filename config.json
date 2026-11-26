@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "app": {
+    "appName": "Girly Wallpaper",
+    "maintenance": false,
+    "forceUpdate": false,
+    "minVersionCode": 1,
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.girlywallpaper",
+    "privacyPolicyUrl": "https://github.com/privacy",
+    "message": ""
+  },
+  "ads": {
+    "enabled": true,
+    "testMode": true,
+    "appId": "ca-app-pub-3940256099942544~3347511713",
+    "banner": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "interstitial": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/1033173712",
+      "showEveryNActions": 3,
+      "minSecondsBetween": 60
+    },
+    "rewarded": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "appOpen": {
+      "enabled": false,
+      "unitId": "ca-app-pub-3940256099942544/9257395921",
+      "minSecondsBetween": 120
+    },
+    "native": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/2247696110",
+      "everyNItems": 9
+    }
+  },
+  "premium": {
+    "enabled": true,
+    "unlockDurationHours": 72,
+    "watchAdsRequired": 1
+  },
+  "themes": {
+    "default": "lavender",
+    "allowUserSwitch": true
+  }
+}
