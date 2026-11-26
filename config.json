@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "app": {
     "appName": "Girly Wallpaper",
     "maintenance": false,
@@ -35,7 +35,7 @@
     "native": {
       "enabled": true,
       "unitId": "ca-app-pub-3940256099942544/2247696110",
-      "everyNItems": 9
+      "everyNItems": 15
     }
   },
   "premium": {
@@ -46,5 +46,10 @@
   "themes": {
     "default": "lavender",
     "allowUserSwitch": true
+  },
+  "moreApps": {
+    "enabled": true,
+    "title": "More Apps",
+    "apps": []
   }
 }
