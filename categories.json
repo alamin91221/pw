@@ -25,5 +25,14 @@
     "order": 3,
     "visible": true,
     "wallpapersCount": 0
+  },
+  {
+    "id": "princess04",
+    "name": "Princess04",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/categories/princess04.jpg",
+    "order": 4,
+    "visible": true,
+    "wallpapersCount": 0
   }
 ]
