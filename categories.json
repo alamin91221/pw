@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "princess",
+    "name": "Princess",
+    "icon": "📁",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/categories/princess.jpg",
+    "order": 1,
+    "visible": true,
+    "wallpapersCount": 0
+  }
+]
