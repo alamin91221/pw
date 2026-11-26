@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -93,6 +93,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animegirl&hl=en",
         "badge": "",
         "order": 4,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710656778",
+        "name": "8D Audio Maker - 8D Converter",
+        "description": "8D Audio Maker – Transform Your Music Experience",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710656778_1795710656805.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.spatialaudio&hl=en",
+        "badge": "",
+        "order": 5,
         "enabled": true
       }
     ]
