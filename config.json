@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -126,6 +126,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.promptvault&hl=en",
         "badge": "",
         "order": 7,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710903978",
+        "name": "4K Donghua Anime Wallpapers",
+        "description": "Donghua Wallpapers: The Ultimate Collection for Cultivation Fans!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710903978_1795710904005.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp&hl=en",
+        "badge": "NEW",
+        "order": 8,
         "enabled": true
       }
     ]
