@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -50,6 +50,51 @@
   "moreApps": {
     "enabled": true,
     "title": "More Apps",
-    "apps": []
+    "apps": [
+      {
+        "id": "app_1795710295867",
+        "name": "Muziko: Stream & Play Music",
+        "description": "Discover a World of Unique Sounds with Muziko",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710295867_1795710295883.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.muziko.rafinilasha&hl=en",
+        "badge": "HOT",
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710382238",
+        "name": "Sad Anime Wallpaper 4K HD",
+        "description": "Express your feelings with the most emotional collection of high-quality sad anime wallpapers.",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710382238_1795710382250.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashasadanime&hl=en",
+        "badge": "",
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710421251",
+        "name": "8D Video Player – Media Player",
+        "description": "8D Video Player – Enjoy Videos with an Immersive Audio Experience",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710421251_1795710421270.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.eightdvideoplayer&hl=en",
+        "badge": "",
+        "order": 3,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710460200",
+        "name": "Anime Girl Wallpapers 4K HD",
+        "description": "Transform your phone with the ultimate collection of high-quality anime girl wallpapers!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710460200_1795710460221.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animegirl&hl=en",
+        "badge": "",
+        "order": 4,
+        "enabled": true
+      }
+    ]
   }
 }
