@@ -7,14 +7,5 @@
     "order": 1,
     "visible": true,
     "wallpapersCount": 124
-  },
-  {
-    "id": "flowers",
-    "name": "Flowers",
-    "icon": "🌸",
-    "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&auto=format&fit=crop&q=80",
-    "order": 2,
-    "visible": true,
-    "wallpapersCount": 98
   }
 ]
