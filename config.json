@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -148,6 +148,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.app.nilashaanimecouple&hl=en",
         "badge": "",
         "order": 9,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710995446",
+        "name": "MehndiVerse - Henna Design Hub",
+        "description": "MehndiVerse - Your Ultimate Henna Design Destination!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710995446_1795710995462.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasha.mehendidesign2026&hl=en",
+        "badge": "",
+        "order": 10,
         "enabled": true
       }
     ]
