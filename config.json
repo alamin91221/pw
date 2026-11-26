@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -104,6 +104,17 @@
         "storeUrl": "https://play.google.com/store/apps/details?id=com.nilasharafi.spatialaudio&hl=en",
         "badge": "",
         "order": 5,
+        "enabled": true
+      },
+      {
+        "id": "app_1795710817431",
+        "name": "Anime Wallpapers 4K: Aesthetic",
+        "description": "Elevate your screen with the ultimate collection of 4K Anime Wallpapers!",
+        "iconUrl": "https://raw.githubusercontent.com/alamin91221/pw/main/images/more_apps/app_1795710817431_1795710817451.png",
+        "packageName": "",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.app.japannilashawallpaperapp&hl=en",
+        "badge": "",
+        "order": 6,
         "enabled": true
       }
     ]
