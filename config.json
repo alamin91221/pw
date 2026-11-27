@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "app": {
     "appName": "Princess Wallpaper",
     "maintenance": false,
@@ -10,7 +10,7 @@
     "message": ""
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "testMode": true,
     "appId": "ca-app-pub-3940256099942544~3347511713",
     "banner": {
